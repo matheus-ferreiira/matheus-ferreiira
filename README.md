@@ -1,4 +1,4 @@
-### Olá! Eu sou o Matheus Ferreira 👋
+### Olá! Eu sou o Matheus Ferreira. 👋
 
 <div>
   <a href="https://github.com/matheus-ferreiira">
