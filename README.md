@@ -2,7 +2,6 @@
 
 <div>
   <a href="https://github.com/matheus-ferreiira">
-a href="#intro" title=" ">
             <img alt="Capsule Render" width="100%"    src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=header&text=Ferramentas+Básicas&fontSize=50&animation=fadeIn"/>
     </a>
   <div style="display: flex;">
